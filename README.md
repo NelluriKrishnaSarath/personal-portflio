@@ -43,17 +43,6 @@ A working contact form powered by a third-party service like EmailJS to receive 
 
 **✔️ Contact Info:** Provide visitors with your email, LinkedIn, or other contact methods.
 
-# 📸 Screenshots
-
-# Homepage
-![Image](https://github.com/user-attachments/assets/85dc2a0c-46e6-42bd-93c9-e5a9d1980173)
-
-# Projects Section
-![Image](https://github.com/user-attachments/assets/e76fb6a0-29b6-42fd-bc4f-6a578f38f706)
-
-# Contact Section
-![Image](https://github.com/user-attachments/assets/96708d84-2fd3-498a-ae8d-ee8814cff897)
-
 
 
 
