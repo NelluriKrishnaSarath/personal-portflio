@@ -62,7 +62,7 @@ A working contact form powered by a third-party service like EmailJS to receive 
 
 📍GitHub: https://github.com/NelluriKrishnaSarath
 
-📍Email: nellurikrishnasarat1@gmail.com
+📍Email: nellurikrishnasarath1@gmail.com
 
 
 
