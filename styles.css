@@ -184,10 +184,15 @@ nav {
 }
 
 .about-img {
-    flex: 1;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    img {
+  width: 500px;
+  height: 800px;
+  object-fit: cover;
+  display: block;
+}
+
+
+
 }
 
 .about-text {
